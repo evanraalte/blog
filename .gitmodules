@@ -7,3 +7,6 @@
 [submodule "themes/ga-hugo-theme"]
 	path = themes/ga-hugo-theme
 	url = git@github.com:giraffeacademy/ga-hugo-theme.git
+[submodule "themes/Mainroad"]
+	path = themes/Mainroad
+	url = git@github.com:Vimux/Mainroad.git
