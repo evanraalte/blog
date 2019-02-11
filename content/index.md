@@ -1,7 +1,7 @@
 ---
 title: "My portfolio and blog"
 date: 2019-02-10T17:02:51+01:00
-draft: true
+draft: false
 toc: true
 mathjax: true
 ---
