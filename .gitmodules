@@ -13,4 +13,4 @@
 [submodule "public"]
 	path = public
 	url = git@github.com:evanraalte/evanraalte.github.io.git
-	branch = master
+	branch = origin/master
