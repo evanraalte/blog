@@ -5,8 +5,7 @@ theme = "Mainroad"
 
 [Author] # Used in authorbox
   name = "Erik van Raalte"
-  bio = "Erik is an engineer in ..., in his free time he likes to do other stuff as well"
-
+  bio = "Erik is a student at the university of Twente. In his free time he likes to do other stuff as well"
 [Params]
   subtitle = "Just another site" # Subtitle of your site. Used in site header
   description = "John Doe's Personal blog about everything" # Site description. Used in meta description
