@@ -1,7 +1,7 @@
 ---
-title: "Why do I start a blog?"
-date: 2019-02-10T20:53:31+01:00
-draft: false
+title: "WhyABlog"
+date: 2019-02-14T21:29:31+01:00
+draft: true
 author: "Erik"
 mathjax: false
 ---
