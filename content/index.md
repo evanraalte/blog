@@ -1,14 +1,10 @@
 ---
-title: "My portfolio and blog"
+title: "Welcome to my blog!"
 date: 2019-02-10T17:02:51+01:00
 draft: false
-toc: true
+toc: false
 mathjax: true
 ---
-
-
-
-# Welcome!
 
 Thanks for visiting my blog! Here can you keep track on my activities :) 
 
