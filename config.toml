@@ -3,42 +3,42 @@ languageCode = "en-us"
 title = "My adventures and other stuff"
 theme = "Mainroad"
 
-[Author] # Used in authorbox
-  name = "Erik van Raalte"
-  bio = "Erik is a student at the university of Twente. In his free time he likes to do other stuff as well"
-[Params]
-
-  subtitle = "Just another site" # Subtitle of your site. Used in site header
-  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
-  #copyright = "John Doe" # copyright holder, otherwise will use site title
-  opengraph = true # Enable OpenGraph if true
-  twitter_cards = true # Enable Twitter Cards if true
-  readmore = false # Show "Read more" button in list if true
-  authorbox = true # Show authorbox at bottom of pages if true
-  toc = true # Enable Table of Contents
-  post_navigation = true # Show post navigation at bottom of pages if true
-  # post_meta = ["date", "categories", "translations"] # Order of post meta information. Use ["none"] to turn off completely.
-  postSections = ["blog"] # the section pages to show on home page and the "Recent articles" widget
-  #postSections = ["blog", "news"] # alternative that shows more than one section's pages
-  #dateformat = "2006-01-02" # change the format of dates
-
-  mathjax = true # Enable MathJax
-  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
-  mathjaxConfig = "TeX-MML-AM_HTMLorMML"
-  #customCSS = ["css/custom.css"] # Include custom CSS files
-
-
-[menu]
-  [[menu.main]]
-    identifier = "Blog"
-    name = "Blog"
-    pre = ""
-    url = "/blog/"
-    weight = 60
-
-  [[menu.main]]
-    identifier = "Portfolio"
-    name = "Portfolio"
-    pre = ""
-    url = "/portfolio/"
-    weight = 60
+#[Author] # Used in authorbox
+#  name = "Erik van Raalte"
+#  bio = "Erik is a student at the university of Twente. In his free time he likes to do other stuff as well"
+#[Params]
+#
+#  subtitle = "Just another site" # Subtitle of your site. Used in site header
+#  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
+#  #copyright = "John Doe" # copyright holder, otherwise will use site title
+#  opengraph = true # Enable OpenGraph if true
+#  twitter_cards = true # Enable Twitter Cards if true
+#  readmore = false # Show "Read more" button in list if true
+#  authorbox = true # Show authorbox at bottom of pages if true
+#  toc = true # Enable Table of Contents
+#  post_navigation = true # Show post navigation at bottom of pages if true
+#  # post_meta = ["date", "categories", "translations"] # Order of post meta information. Use ["none"] to turn off completely.
+#  postSections = ["blog"] # the section pages to show on home page and the "Recent articles" widget
+#  #postSections = ["blog", "news"] # alternative that shows more than one section's pages
+#  #dateformat = "2006-01-02" # change the format of dates
+#
+#  mathjax = true # Enable MathJax
+#  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
+#  mathjaxConfig = "TeX-MML-AM_HTMLorMML"
+#  #customCSS = ["css/custom.css"] # Include custom CSS files
+#
+#
+#[menu]
+#  [[menu.main]]
+#    identifier = "Blog"
+#    name = "Blog"
+#    pre = ""
+#    url = "/blog/"
+#    weight = 60
+#
+#  [[menu.main]]
+#    identifier = "Portfolio"
+#    name = "Portfolio"
+#    pre = ""
+#    url = "/portfolio/"
+#    weight = 60

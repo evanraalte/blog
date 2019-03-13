@@ -6,7 +6,7 @@ toc: false
 mathjax: true
 ---
 
-Thanks for visiting my website! Here can you keep track on my activities in my blog, or see who I am in my portfolio!
+Thanks for visiting my website! Here can you keep track on my activities in my blog, or see who I am in my portfolio! v2
 
 
 
