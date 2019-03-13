@@ -8,7 +8,8 @@ hugo -t Mainroad # if using a theme, replace with `hugo -t <YOURTHEME>`
 # Go To Public folder
 cd public
 # Add changes to git.
-git add .
+git rm *
+git add *
 
 # Commit changes.
 msg="rebuilding site `date`"
