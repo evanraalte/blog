@@ -3,12 +3,12 @@ languageCode = "en-us"
 title = "My adventures and other stuff"
 theme = "Mainroad"
 
-#[Author] # Used in authorbox
-#  name = "Erik van Raalte"
-#  bio = "Erik is a student at the university of Twente. In his free time he likes to do other stuff as well"
-#[Params]
+[Author] # Used in authorbox
+  name = "Erik van Raalte"
+  bio = "Erik is a student at the university of Twente. In his free time he likes to do other stuff as well"
+[Params]
 #
-#  subtitle = "Just another site" # Subtitle of your site. Used in site header
+subtitle = "Just another site" # Subtitle of your site. Used in site header
 #  description = "John Doe's Personal blog about everything" # Site description. Used in meta description
 #  #copyright = "John Doe" # copyright holder, otherwise will use site title
 #  opengraph = true # Enable OpenGraph if true
@@ -25,7 +25,7 @@ theme = "Mainroad"
 #  mathjax = true # Enable MathJax
 #  mathjaxPath = "https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js" # Specify MathJax path
 #  mathjaxConfig = "TeX-MML-AM_HTMLorMML"
-#  #customCSS = ["css/custom.css"] # Include custom CSS files
+customCSS = ["css/custom.css"] # Include custom CSS files
 #
 #
 #[menu]
